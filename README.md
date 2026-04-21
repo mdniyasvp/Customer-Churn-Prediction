@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Customer Churn Prediction
 
 ## Objective
@@ -43,4 +42,3 @@ MUHAMMED NIYAS V P
 =======
 # Customer-Churn-Prediction
 End-to-End ML Project using Tree-Based &amp; Boosting Models
->>>>>>> fac67b539c9bf509f96f9f9e2b49c7722fe3b33f
